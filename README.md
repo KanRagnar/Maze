@@ -12,6 +12,7 @@ into consideration if they get closer to the villian or a loot. To achieve that 
 Starting the game the hero and the villian take turns moving one after the other for a 100 moves each.
 The moves were all being stored and shown at the end as well as the result of the game.
 
+To see the example go to the code version
 Example.
 +---+---+---+---+---+---+---+---+---+---+---+---+---+---+---+
 |                               | S3  M     |               |
